@@ -3,7 +3,7 @@ import "./description-section.scss";
 export default class Description {
   constructor() {}
 
-  render(row2) {
+  render(row2, data) {
     const descriptionSection = document.createElement("section");
     descriptionSection.classList.add("ho-description-section");
 
@@ -17,7 +17,7 @@ export default class Description {
     </h2>
 
     <p class="ho-description__value">
-      با استفاده از این خدمت مشترکین می توانند صورت حساب خارج از دوره خود را ثبت و پیگیری نمایند
+     ${data.serviceDescription}
     </p>
   </div>
 
@@ -27,7 +27,7 @@ export default class Description {
     </h2>
 
     <p class="ho-descriptionEn__value">
-      Using this service, subscribers can register and track their out-of-period bills
+    ${data.serviceDescriptionEn}
     </p>
   </div>
     

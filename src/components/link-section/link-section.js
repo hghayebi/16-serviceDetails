@@ -7,7 +7,7 @@ import documentationIcon from "./icons/documentation.png";
 export default class LinkSection {
   constructor() {}
 
-  render(row3) {
+  render(row3, data) {
     const linkSection = document.createElement("section");
     linkSection.classList.add("ho-link-section");
     row3.appendChild(linkSection);
@@ -17,7 +17,7 @@ export default class LinkSection {
   <div class="ho-links">
 
 
-<a href="#" class="ho-link-box">
+<a href="${data.serviceLink}" class="ho-link-box">
   <div class="ho-link-box__content">
     <img src="${linkIcon}" alt="" class="ho-link-box__icon">
 
@@ -28,7 +28,7 @@ export default class LinkSection {
 </a>
 
 
-<a href="#" class="ho-service-link ho-link-box">
+<a href="${data.serviceSlaLink}" class="ho-service-link ho-link-box">
 <div class="ho-link-box__content">
   <img src="${agreementIcon}" alt="" class="ho-link-box__icon">
 
@@ -40,7 +40,7 @@ export default class LinkSection {
 
 
 
-<a href="#" class="ho-service-link ho-link-box">
+<a href="${data.serviceGuideLink}" class="ho-service-link ho-link-box">
 <div class="ho-link-box__content">
   <img src="${helpIcon}" alt="" class="ho-link-box__icon">
 
@@ -50,7 +50,7 @@ export default class LinkSection {
 </div>
 </a>
 
-<a href="#" class="ho-service-link ho-link-box">
+<a href="${data.ServiceMardomLink}" class="ho-service-link ho-link-box">
       <div class="ho-link-box__content">
         <img src="${documentationIcon}" alt="" class="ho-link-box__icon">
 

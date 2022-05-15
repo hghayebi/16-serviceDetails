@@ -1,20 +1,27 @@
 .ho-link-section {
-  margin-top: 100px;
-  max-width: 282px;
+  flex: 1;
+
+  // margin-top: 100px;
 
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
 }
 
 .ho-links {
+  min-width: 282px;
+
   border-top: 2px solid #eee;
   padding: 20px;
   background-color: #eee;
+
+  // display: flex;
+  // flex-direction: column;
 }
 
 // service link --------------
 .ho-link-box {
   margin-bottom: 20px;
+
   &:link,
   &:visited {
     display: block;
@@ -37,11 +44,13 @@
   &__content {
     display: flex;
     align-items: center;
-    // justify-content: space-between;
+    justify-content: space-between;
+
     // gap: 20px;
 
     margin: 10px;
     padding: 25px 20px;
+
     border-radius: 10px;
 
     background-color: #fff;
@@ -59,6 +68,13 @@
   }
 
   &__value {
-    transform: scale(1);
+    flex: 1;
+  }
+}
+
+@media (max-width: 1000px) {
+  .ho-link-section {
+  }
+  .ho-links {
   }
 }

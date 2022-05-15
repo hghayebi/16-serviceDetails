@@ -8,7 +8,7 @@ import documentsIcon from "./icons/documents.png";
 export default class Section3 {
   constructor() {}
 
-  render(row2) {
+  render(row2, data) {
     const section3 = document.createElement("section");
     section3.classList.add("ho-section--3");
     row2.appendChild(section3);
@@ -26,7 +26,7 @@ export default class Section3 {
 
     <div class="ho-line-box--second">
       <p class="ho-time__value">
-        8 روز کاری
+        ${data.serviceTime}
       </p>
     </div>
 
@@ -44,7 +44,7 @@ export default class Section3 {
 
     <div class="ho-line-box--second">
       <p class="ho-responsible__value">
-        معاونت مشترکین - واحد قطع و وصل
+      ${data.serviceResponsible}
       </p>
     </div>
 
@@ -62,7 +62,7 @@ export default class Section3 {
 
     <div class="ho-line-box--second">
       <p class="ho-responsibleContact__value">
-        1521
+      ${data.serviceResponsibleContact}
       </p>
     </div>
 
@@ -110,7 +110,17 @@ export default class Section3 {
 
     <div class="ho-line-box--second">
       <ul class="ho-reqDocuments__value">
-        <li>شناسه قبض محل مصرف</li>
+        <li>
+        ${data.serviceRequirements1}
+        </li>
+        
+        <li>
+        ${data.serviceRequirements2}
+        </li>
+        
+        <li>
+        ${data.serviceRequirements3}
+        </li>
       </ul>
     </div>
 
