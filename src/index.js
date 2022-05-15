@@ -1,5 +1,6 @@
 import Description from "./components/description-section/description-section";
 import Heading from "./components/heading-section/heading-section";
+import LinkSection from "./components/link-section/link-section";
 import Section3 from "./components/section-3/section-3";
 import "./main.scss";
 import "./row2.scss";
@@ -13,8 +14,12 @@ row1.classList.add("ho-row1");
 const row2 = document.createElement("div");
 row2.classList.add("ho-row2");
 
+const row3 = document.createElement("div");
+row3.classList.add("ho-row3");
+
 document.querySelector("body").appendChild(row1);
 document.querySelector("body").appendChild(row2);
+document.querySelector("body").appendChild(row3);
 
 // --------
 const serviceTitle = new Heading();
@@ -26,3 +31,7 @@ description.render(row2);
 // -------
 const section3 = new Section3();
 section3.render(row2);
+
+// Link section
+const linkSection = new LinkSection();
+linkSection.render(row3);

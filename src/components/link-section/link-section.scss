@@ -1,0 +1,64 @@
+.ho-link-section {
+  margin-top: 100px;
+  max-width: 282px;
+
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.ho-links {
+  border-top: 2px solid #eee;
+  padding: 20px;
+  background-color: #eee;
+}
+
+// service link --------------
+.ho-link-box {
+  margin-bottom: 20px;
+  &:link,
+  &:visited {
+    display: block;
+
+    text-decoration: none;
+  }
+
+  &:hover,
+  &:active {
+    transform: translateY(-3px) scale(1.05);
+  }
+
+  &__icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+  }
+  text-align: center;
+  transition: all 0.2s;
+  &__content {
+    display: flex;
+    align-items: center;
+    // justify-content: space-between;
+    // gap: 20px;
+
+    margin: 10px;
+    padding: 25px 20px;
+    border-radius: 10px;
+
+    background-color: #fff;
+    color: #125292;
+    font-size: 16px;
+    font-weight: bold;
+
+    border: solid 1px #ccc;
+
+    box-shadow: 0 4px 8px rgba(#000, 0.2);
+    // transition: all 0.2s;
+    &:hover {
+      box-shadow: 0 6px 20px rgba(#000, 0.19);
+    }
+  }
+
+  &__value {
+    transform: scale(1);
+  }
+}
