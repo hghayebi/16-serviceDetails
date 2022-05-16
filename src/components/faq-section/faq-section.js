@@ -1,13 +1,32 @@
 import "./faq-section.scss";
-import faqImage from "./question.jpg";
+// import faqImage from "./question.jpg";
 
 export default class FaqSection {
   constructor() {}
 
-  render(row4) {
+  render(row4, data) {
     const faqSection = document.createElement("section");
     faqSection.classList.add("ho-faq-section");
     row4.appendChild(faqSection);
+
+    let faq = ``;
+
+    // data.serviceFaq.replace(/\\"/, "");
+    data.serviceFaq.split("///").forEach((questionAnswer) => {
+      let [question, answer] = questionAnswer.split("qqq");
+      faq += `
+      
+    <div class="ho-question-box">
+      <h2 class="ho-question">
+        ${question}
+      </h2>
+      <p class="ho-answer">
+        ${answer}
+      </p>
+    </div>
+      
+      `;
+    });
 
     const html = `
     
@@ -25,56 +44,14 @@ export default class FaqSection {
 
   <div class="ho-faq-questions">
 
-    <div class="ho-question-box">
-      <h2 class="ho-question">
-        1- مدت زمان ارائه خدمت چند روز می باشد؟
-      </h2>
-      <p class="ho-answer">
-        بطور متوسط 8 روز کاری طوال خواهد کشید .
-      </p>
-    </div>
-
-    <div class="ho-question-box">
-      <h2 class="ho-question">
-        2- آیا صورتحساب های صادره دقیقا وفق نرخ های مصوب وزارت نیرو صادر شده است ؟
-      </h2>
-      <p class="ho-answer">
-        بله , بر اساس شرایط تعرفه های برق مصوب وزارت نیرو و صادر می گردد.
-      </p>
-    </div>
-
-    <div class="ho-question-box">
-      <h2 class="ho-question">
-        3- آیا لوازم اندازه گیری تست و عمکلرد آن مورد سنجش و تایید قرار می گیرد ؟
-      </h2>
-      <p class="ho-answer">
-        بله , فرآیند تست لوازم اندازه گیری انجام می یابد .
-      </p>
-    </div>
-
-    <div class="ho-question-box">
-      <h2 class="ho-question">
-        4- آیا پیگیری فرآیند تسویه حساب بصورت غیر حضوری توسط مشترک مقدور میباشد؟
-      </h2>
-      <p class="ho-answer">
-        بله : مشترک از نتایج فرآیند با مراجعه بخش پیگیری برنامه برق من , مطلع خواهد گردید.
-      </p>
-    </div>
-
-    <div class="ho-question-box">
-      <h2 class="ho-question">
-        5- آیا در فرآیند توسیه حساب فقط بدهی برق مصرفی پرداخت می گردد؟
-      </h2>
-      <p class="ho-answer">
-        نخیر : در این فرآیند لو.ارم اندازه گیری تست , آخرین صورتحساب برق مصرفی صادر و کل بدهی تسویه می گردد.
-      </p>
-    </div>
+    ${faq}
 
 
   </div>
 
   <div class="ho-faq__image-box">
-    <img src="${faqImage}" alt="" class="ho-faq__image">
+    <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/question.jpg
+    " alt="تصویر آدمک باآیکون سوال" class="ho-faq__image">
   </div>
 
 </div>

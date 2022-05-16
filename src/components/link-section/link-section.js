@@ -1,8 +1,8 @@
 import "./link-section.scss";
-import linkIcon from "./icons/link.png";
-import agreementIcon from "./icons/agreement.png";
-import helpIcon from "./icons/help.png";
-import documentationIcon from "./icons/documentation.png";
+// import linkIcon from "./icons/link.png";
+// import agreementIcon from "./icons/agreement.png";
+// import helpIcon from "./icons/help.png";
+// import documentationIcon from "./icons/documentation.png";
 
 export default class LinkSection {
   constructor() {}
@@ -19,7 +19,7 @@ export default class LinkSection {
 
 <a href="${data.serviceLink}" class="ho-link-box">
   <div class="ho-link-box__content">
-    <img src="${linkIcon}" alt="" class="ho-link-box__icon">
+    <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/link.png" alt="" class="ho-link-box__icon">
 
     <p class="ho-link-box__value">
       لینک دریافت خدمت
@@ -30,7 +30,7 @@ export default class LinkSection {
 
 <a href="${data.serviceSlaLink}" class="ho-service-link ho-link-box">
 <div class="ho-link-box__content">
-  <img src="${agreementIcon}" alt="" class="ho-link-box__icon">
+  <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/agreement.png" alt="" class="ho-link-box__icon">
 
   <p class="ho-link-box__value">
     توافقنامه سطح خدمات
@@ -42,7 +42,7 @@ export default class LinkSection {
 
 <a href="${data.serviceGuideLink}" class="ho-service-link ho-link-box">
 <div class="ho-link-box__content">
-  <img src="${helpIcon}" alt="" class="ho-link-box__icon">
+  <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/help.png" alt="" class="ho-link-box__icon">
 
   <p class="ho-link-box__value">
     راهنمای استفاده از خدمت
@@ -52,7 +52,7 @@ export default class LinkSection {
 
 <a href="${data.ServiceMardomLink}" class="ho-service-link ho-link-box">
       <div class="ho-link-box__content">
-        <img src="${documentationIcon}" alt="" class="ho-link-box__icon">
+        <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/documentation.png" alt="" class="ho-link-box__icon">
 
         <p class="ho-link-box__value">
           اطلاعات تکمیلی خدمت

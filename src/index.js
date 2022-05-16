@@ -21,24 +21,13 @@ const {
   serviceTime,
   serviceResponsible,
   serviceResponsibleContact,
-  serviceRequirements1,
-  serviceRequirements2,
-  serviceRequirements3,
+  serviceRequirements,
   serviceMethod,
   serviceSlaLink,
   serviceGuideLink,
   ServiceMardomLink,
   serviceProcessImageLink,
-  question1,
-  answer1,
-  question2,
-  answer2,
-  question3,
-  answer3,
-  question4,
-  answer4,
-  question5,
-  answer5,
+  serviceFaq,
 } = serviceData;
 
 const serviceDetailes = document.createElement("div");
@@ -77,9 +66,7 @@ section3.render(row2, {
   serviceResponsible,
   serviceResponsibleContact,
   serviceMethod,
-  serviceRequirements1,
-  serviceRequirements2,
-  serviceRequirements3,
+  serviceRequirements,
 });
 
 // Link section
@@ -97,4 +84,4 @@ processSection.render(row3);
 
 // FAQ section
 const faqSection = new FaqSection();
-faqSection.render(row4);
+faqSection.render(row4, { serviceFaq });

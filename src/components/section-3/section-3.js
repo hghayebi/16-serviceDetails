@@ -1,9 +1,9 @@
 import "./section-3.scss";
-import clock from "./icons/clock.png";
-import phone from "./icons/phone.png";
-import answerCenter from "./icons/answer-center.png";
-import serviceLine from "./icons/service-line.png";
-import documentsIcon from "./icons/documents.png";
+// import clock from "./icons/clock.png";
+// import phone from "./icons/phone.png";
+// import answerCenter from "./icons/answer-center.png";
+// import serviceLine from "./icons/service-line.png";
+// import documentsIcon from "./icons/documents.png";
 
 export default class Section3 {
   constructor() {}
@@ -13,12 +13,25 @@ export default class Section3 {
     section3.classList.add("ho-section--3");
     row2.appendChild(section3);
 
+    // requirements
+    let requirementsList = ``;
+    data.serviceRequirements.split("///").forEach((r) => {
+      let tempLi = `
+      <li>
+        ${r}
+      </li>
+
+      `;
+
+      requirementsList += tempLi;
+    });
+
     const html = `
     
     <div class="ho-line-box">
 
     <div class="ho-line-box--first">
-      <img src="${clock}" alt="" class="ho-icon">
+      <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/clock.png" alt=" آیکون نمایشگر ساعت" class="ho-icon">
       <p class="ho-time--name__value">
         متوسط زمان ارائه خدمت:
       </p>
@@ -36,7 +49,7 @@ export default class Section3 {
   <div class="ho-line-box">
 
     <div class="ho-line-box--first">
-      <img src="${answerCenter}" alt="" class="ho-icon">
+      <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/answer-center.png" alt="آیکون فرد پاسخگو" class="ho-icon">
       <p class="ho-responsible--name__value">
         واحد پاسخگو :
       </p>
@@ -54,7 +67,7 @@ export default class Section3 {
   <div class="ho-line-box">
 
     <div class="ho-line-box--first">
-      <img src="${phone}" alt="" class="ho-icon">
+      <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/phoneC.png" alt="آیکون تلفن" class="ho-icon">
       <p class="ho-responsibleContact--name__value">
         شماره تماس واحد پاسخگو :
       </p>
@@ -73,7 +86,7 @@ export default class Section3 {
   <div class="ho-line-box">
 
   <div class="ho-line-box--first">
-    <img src="${serviceLine}" alt="" class="ho-icon">
+    <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/service-line.png" alt="آیکون دست دادن" class="ho-icon">
     <p class="ho-service-line--name__value">
       نحوه ارائه خدمت :
     </p>
@@ -102,7 +115,7 @@ export default class Section3 {
 <div class="ho-line-box">
 
     <div class="ho-line-box--first">
-      <img src="${documentsIcon}" alt="" class="ho-icon">
+      <img src="https://aped.ir/Dorsapax/Data/Sub_0/File/documents.png" alt="" class="ho-icon">
       <p class="ho-reqDocuments--name__value">
         مدارک لازم :
       </p>
@@ -110,17 +123,7 @@ export default class Section3 {
 
     <div class="ho-line-box--second">
       <ul class="ho-reqDocuments__value">
-        <li>
-        ${data.serviceRequirements1}
-        </li>
-        
-        <li>
-        ${data.serviceRequirements2}
-        </li>
-        
-        <li>
-        ${data.serviceRequirements3}
-        </li>
+        ${requirementsList}
       </ul>
     </div>
 
