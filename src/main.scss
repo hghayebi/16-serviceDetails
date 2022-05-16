@@ -16,3 +16,25 @@ body {
   background-color: #fff;
   padding: 0 35px;
 }
+
+.ho-top-service-code {
+  margin-bottom: 40px;
+  // transition: all 0.2s;
+  color: #002d65;
+  font-weight: bold;
+
+  & a {
+    transition: all 0.2s;
+    &:link,
+    &:visited {
+      text-decoration: none;
+      font-family: sans-serif;
+      color: #002d65;
+      font-size: 11px;
+      padding: 3px;
+    }
+    &:hover {
+      font-size: 13px;
+    }
+  }
+}

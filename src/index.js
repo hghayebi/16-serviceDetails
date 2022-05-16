@@ -9,10 +9,10 @@ import "./row2.scss";
 import "./row3.scss";
 
 import data from "./data/data0.json";
-const serviceData =
-  data["صدور قبض پایان دوره برای مشترکین شرکت های توزیع نیروی برق"];
+const serviceData = data["13031465103"];
 
 const {
+  serviceCode,
   serviceName,
   serviceNameEn,
   serviceDescription,
@@ -32,6 +32,19 @@ const {
 
 const serviceDetailes = document.createElement("div");
 serviceDetailes.classList.add("ho-service-detailes");
+
+// top right service code
+const topRightServiceCode = document.createElement("div");
+topRightServiceCode.classList.add("ho-top-service-code");
+topRightServiceCode.innerHTML = `
+
+<a href="https://aped.ir/serviceinfo" class="ho-serviceInfo-main-page">معرفی خدمات</a>
+/
+<a href="#" class="ho-currentService-page">service-${serviceCode}</a>
+
+`;
+
+serviceDetailes.appendChild(topRightServiceCode);
 
 const row1 = document.createElement("div");
 row1.classList.add("ho-row1");
