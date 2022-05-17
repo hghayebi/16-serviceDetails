@@ -9,7 +9,9 @@ import "./row2.scss";
 import "./row3.scss";
 
 import data from "./data/data0.json";
-const serviceData = data["13031465103"];
+const sCode = document.querySelector(".ho-temp-service-code");
+const serviceData = data[sCode.textContent];
+sCode.style.display = "none";
 
 const {
   serviceCode,
@@ -93,7 +95,7 @@ linkSection.render(row3, {
 
 // process section
 const processSection = new ProcessSection();
-processSection.render(row3);
+processSection.render(row3, { serviceProcessImageLink });
 
 // FAQ section
 const faqSection = new FaqSection();

@@ -12,7 +12,30 @@
 </head>
 
 <body>
+  <p class="ho-temp-service-code">13031465103</p>
 
+  <script>
+    var chatScript = document.createElement("script");
+    chatScript.type = "text/javascript";
+    chatScript.innerHTML = `
+    
+    window.$_DANACHAT_API || (function (d, w) {                                    
+		var r = $_DANACHAT_API = function (c) { r._.push(c); };                                    
+		w.__danachat_app_base_url = '/Dana/';w.__danachat_host_url = 'https://dana.aped.ir';                                    
+		w.__danachat_account = 'E433FD9C3AE424C56FD4CCF8A5BE630256EC76F3D1A7C52B0B7B324C8255FA59C84308247C9A4C01';                                     
+		w.__danachat_widget = 'E433FD9C3AE424C56FD4CCF8A5BE630256EC76F3D1A7C52B0B7B324C8255FA59C84308247C9A4C01';                                     
+		w.__danachat_profile = 'E433FD9C3AE424C56FD4CCF8A5BE630256EC76F3D1A7C52B0B7B324C8255FA59C84308247C9A4C01';                                     
+		w.__danachat_version = 1;w.__danachat_ci = 'DanaChatApp';w.__danachat_cs = '311089434AFB6B7D5842AEDC542356CC6AD25B1E';                                    
+		r._ = [];var rc = d.createElement('script');rc.type = 'text/javascript';rc.async = true;rc.setAttribute('charset', 'utf-8');                                    
+		rc.src = w.__danachat_host_url + w.__danachat_app_base_url + 'dpx/chat/chat.embed.min.js';                                    
+		var s = d.getElementsByTagName('script')[0];s.parentNode.insertBefore(rc, s);                                
+	})(document, window);           
+    
+    `;
+
+    document.head.appendChild(chatScript);
+
+  </script>
 </body>
 
 </html>

@@ -4,7 +4,7 @@ import processImage from "./service-process.jpg";
 export default class ProcessSection {
   constructor() {}
 
-  render(row3) {
+  render(row3, data) {
     const processSection = document.createElement("section");
     processSection.classList.add("ho-process-section");
     row3.appendChild(processSection);
@@ -16,7 +16,7 @@ export default class ProcessSection {
     // `;
     const html = `
     
-    <img src="https://qepd.co.ir/_DouranPortal/images/ServiceChart/Chart_13031465100.jpg" alt="نمودار فرایند ارائه خدمت" class="ho-process-section__img">
+    <img src="${data.serviceProcessImageLink}" alt="نمودار فرایند ارائه خدمت" class="ho-process-section__img">
     
     `;
 
