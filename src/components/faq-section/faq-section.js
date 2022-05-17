@@ -9,24 +9,25 @@ export default class FaqSection {
     faqSection.classList.add("ho-faq-section");
     row4.appendChild(faqSection);
 
-    let faq = ``;
+    // let faq = ``;
 
-    // data.serviceFaq.replace(/\\"/, "");
-    data.serviceFaq.split("///").forEach((questionAnswer) => {
-      let [question, answer] = questionAnswer.split("qqq");
-      faq += `
-      
-    <div class="ho-question-box">
-      <h2 class="ho-question">
-        ${question}
-      </h2>
-      <p class="ho-answer">
-        ${answer}
-      </p>
-    </div>
-      
-      `;
-    });
+    // // data.serviceFaq.replace(/\\"/, "");
+    // data.serviceFaq.split("sss").forEach((questionAnswer) => {
+    //   // console.log(questionAnswer);
+    //   let [question, answer] = questionAnswer.split("qqq");
+    //   faq += `
+
+    // <div class="ho-question-box">
+    //   <h2 class="ho-question">
+    //     ${question}
+    //   </h2>
+    //   <p class="ho-answer">
+    //     ${answer}
+    //   </p>
+    // </div>
+
+    //   `;
+    // });
 
     const html = `
     
@@ -44,8 +45,54 @@ export default class FaqSection {
 
   <div class="ho-faq-questions">
 
-    ${faq}
+      
+<div class="ho-question-box">
+  <h2 class="ho-question">
+    ${data.q1 || " "}
+  </h2>
+  <p class="ho-answer">
+    ${data.a1 || " "}
+  </p>
+</div>
 
+<div class="ho-question-box">
+  <h2 class="ho-question">
+    ${data.q2 || " "}
+  </h2>
+  <p class="ho-answer">
+    ${data.a2 || " "}
+  </p>
+</div>
+
+
+<div class="ho-question-box">
+  <h2 class="ho-question">
+    ${data.q3 || " "}
+  </h2>
+  <p class="ho-answer">
+    ${data.a3 || " "}
+  </p>
+</div>
+
+
+<div class="ho-question-box">
+  <h2 class="ho-question">
+    ${data.q4 || " "}
+  </h2>
+  <p class="ho-answer">
+    ${data.a4 || " "}
+  </p>
+</div>
+
+
+<div class="ho-question-box">
+  <h2 class="ho-question">
+    ${data.q5 || " "}
+  </h2>
+  <p class="ho-answer">
+    ${data.a5 || " "}
+  </p>
+</div>
 
   </div>
 

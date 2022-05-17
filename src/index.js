@@ -29,7 +29,16 @@ const {
   serviceGuideLink,
   ServiceMardomLink,
   serviceProcessImageLink,
-  serviceFaq,
+  q1,
+  q2,
+  q3,
+  q4,
+  q5,
+  a1,
+  a2,
+  a3,
+  a4,
+  a5,
 } = serviceData;
 
 const serviceDetailes = document.createElement("div");
@@ -99,4 +108,4 @@ processSection.render(row3, { serviceProcessImageLink });
 
 // FAQ section
 const faqSection = new FaqSection();
-faqSection.render(row4, { serviceFaq });
+faqSection.render(row4, { q1, q2, q3, q4, q5, a1, a2, a3, a4, a5 });
