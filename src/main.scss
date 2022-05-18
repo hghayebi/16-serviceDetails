@@ -1,22 +1,32 @@
-* {
+// * {
+//   padding: 0;
+//   margin: 0;
+//   box-sizing: border-box;
+//   font-family: sans-serif;
+
+//   direction: rtl;
+// }
+
+// body {
+//   max-width: 1130px;
+//   margin: 100px auto;
+// }
+
+.ho-service-detailes {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
-
   direction: rtl;
-}
 
-body {
-  max-width: 1130px;
-  margin: 100px auto;
-}
+  max-width: 1170px;
+  margin: 0 auto;
 
-.ho-service-detailes {
   background-color: #fff;
   padding: 0 35px;
 }
-
+.ho-temp-service-name {
+  font-family: sans-serif !important;
+}
 .ho-top-service-code {
   margin-bottom: 40px;
   // transition: all 0.2s;

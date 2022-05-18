@@ -79,8 +79,8 @@ const result = excelToJson({
 
 const obj = {};
 
-result["raw-data"].forEach((el) => {
-  obj[el.serviceCode] = el;
+result["raw-data"].forEach(el => {
+  obj[el.serviceName] = el;
 });
 
 fs.writeFileSync(
