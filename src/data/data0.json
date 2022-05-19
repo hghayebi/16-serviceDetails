@@ -1,1 +1,467 @@
-{"serviceName":{"serviceCode":"serviceCode","serviceName":"serviceName","serviceNameEn":"serviceNameEn","serviceDescription":"serviceDescription","serviceDescriptionEn":"serviceDescriptionEn","serviceLink":"serviceLink","serviceTime":"serviceTime","serviceResponsible":"serviceResponsible","serviceResponsibleContact":"serviceResponsibleContact","serviceRequirements":"serviceRequirements","serviceMethod":"serviceMethod","serviceSlaLink":"serviceSlaLink","serviceGuideLink":"serviceGuideLink","ServiceMardomLink":"ServiceMardomLink","serviceProcessImageLink":"serviceProcessImageLink","q1":"q1","a1":"a1","q2":"q2","a2":"a2","q3":"q3","a3":"a3","q4":"q4","a4":"a4","q5":"q5","a5":"a5"},"عنوان خدمت":{"serviceCode":"کد خدمت","serviceName":"عنوان خدمت","serviceDescription":"شرح خدمت","serviceLink":"لینک دریافت خدمت","serviceTime":"متوسط زمان ارائه خدمت","serviceResponsible":"واحد پاسخگو","serviceResponsibleContact":"شماره تماس واحد پاسخگو","serviceRequirements":"مدارک لازم","serviceMethod":"نحوه ارائه خدمت","serviceSlaLink":"توافقنامه سطخ خدمت (SLA)","serviceGuideLink":"راهنمای استفاده از خدمت","ServiceMardomLink":"اطلاعات تکمیلی خدمت(سامانه مردم)","serviceProcessImageLink":"فرآیند خدمت"},"تسویه حساب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تسویه حساب مشترکین شرکت های توزیع نیروی برق","serviceNameEn":"Settlement of subscribers of electricity distribution companies","serviceDescription":"با استفاده از این خدمت مشترکین می توانند صورت حساب خارج از دوره خود را ثبت و پیگیری نمایند","serviceDescriptionEn":"Using this service subscribers can register and track their out-of-period bills","serviceLink":"https://bargheman.com/auth","serviceTime":"8 روز کاری","serviceResponsible":"معاونت مشترکین - واحد قطع و وصل","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض محل مصرف","serviceMethod":"الکترونیکی","serviceSlaLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/slaC.pdf","serviceGuideLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/guide.xlsx","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465100","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465100.jpg","q1":"1.  مدت زمان ارائه خدمت چند روز می باشد؟","a1":"بطور متوسط 8 روز کاری طوال خواهد کشید .","q2":"2-  آیا صورتحساب های صادره دقیقا وفق نرخ های مصوب وزارت نیرو صادر شده است ؟","a2":"بله  بر اساس شرایط تعرفه های برق مصوب وزارت نیرو و صادر می گردد.","q3":"3-  آیا لوازم اندازه گیری تست و عمکلرد آن مورد سنجش و تایید قرار می گیرد ؟","a3":"بله   فرآیند تست لوازم اندازه گیری انجام می یابد .","q4":"4- آیا پیگیری فرآیند تسویه حساب بصورت غیر حضوری توسط مشترک مقدور میباشد؟","a4":"بله : مشترک از نتایج فرآیند با مراجعه بخش پیگیری برنامه برق من  مطلع خواهد گردید.","q5":"5-  آیا در فرآیند توسیه حساب فقط بدهی برق مصرفی پرداخت می گردد؟","a5":"نخیر : در این فرآیند لو.ارم اندازه گیری تست  آخرین صورتحساب برق مصرفی  صادر و کل  بدهی تسویه می گردد."},"تسویه بدهی مشترکین شرکت های توزیع  نیروی برق":{"serviceCode":13031465100,"serviceName":"تسویه بدهی مشترکین شرکت های توزیع  نیروی برق","serviceNameEn":"Debt settlement of electricity distribution companies","serviceDescription":"مشترکین می توانند درخواست تسویه بدهی انشعاب خود را به صورت غیر حضوری ارائه دهند.","serviceDescriptionEn":"customers can apply for debt settlement of their electricity branches in absentia","serviceLink":"https://bargheman.com/auth","serviceTime":"آنی","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض محل مصرف","serviceMethod":"الکترونیکی","serviceGuideLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/guide.jpg","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465101","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465101.jpg","q1":"1- برای دریافت این خدمت به چه صورت اقدام کنیم؟","a1":"مراجعه به اپلیکیشن برق من - سایت شرکت توزیع -دفاتر پیشخوان - مرکز پاسخگویی تلفنی 1521و ...","q2":"2- چگونه بدهی انشعاب برق خویش را پرداخت نمایم؟","a2":"از طریق درگاههای متصل به سامانه اپلیکیشن برق من و ساپا و 1521","q3":"3- برای دسترسی به این خدمت چه اطلاعاتی نیاز است؟","a3":"شناسه قبض، بدنه کنتور یا شماره تلفن همراه","q4":"4- شناسه قبض انشعاب برق خویش را چطور می توانم دریافت کنم؟","a4":":شماره بدنه کنتور برق خویش را در اپلیکیشن برق من وارد نموده تا شناسه قبض انشعاب برق را مشاهده نماید و همینطور در سایت شرکت توزیع","q5":"5-   مدت زمان دریافت  این خدمت چقدر است   ؟","a5":"آنی"},"تغییر تعرفه یا گزینه تعرفه انشعاب آمپری شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تغییر تعرفه یا گزینه تعرفه انشعاب آمپری شرکت های توزیع نیروی برق","serviceNameEn":"Change tariff or normal branch tariff option","serviceDescription":"اصلاح كد محاسباتي هزينه انرژي براساس نوع مصرف","serviceDescriptionEn":"Modify the energy cost calculation code based on the type of consumption","serviceLink":"https://bargheman.com/auth","serviceTime":"15 روز کاری","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض انشعاب برق///پروانه و مجوزات معتبر///ثبت درخواست توسط مالك انشعاب يا مصرف كننده قانوني","serviceMethod":"الکترونیکی","serviceSlaLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/slaCC.pdf","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465102","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465101C.jpg","q1":"1- براي تغيير تعرفه انشعاب برق از كجا بايد شروع كرد؟","a1":"گام نخست، ثبت درخواست الكترونيك در اپليكيشن و يا وبسايت » برق من « با در دست داشتن شناسه قبض انشعاب مورد نظر مي باشد.","q2":"2- اگر در مورد اين خدمت ابهام داشتم از كجا مشاوره بگيرم؟","a2":"در صورت نياز به مشاوره، مي توانيد با سامانه خدمات تلفني شركت توزيع برق مربوطه","q3":"3- مدارك مورد نياز چيست؟","a3":"بسته به نوع تعرفه انشعاب، مدارك تفاوت دارند. ليكن مدارك اصلي عبارتند از: پروانه بهره برداري واحد صنعتي، پروانه چاه آب، پروانه ساختمان","q4":"4- شناسه قبض انشعاب برق را از كجا بايد پيدا كنم؟","a4":"شناسه قبض انشعاب در پيامك هاي قبض برق، بصورت مستمر ارسال مي گردد. همچنين برچسب مشخصات انشعاب در محل تابلو كنتور برق نصب شده است كه حاوي شناسه قبض انشعاب برق مي باشد. در صورت عدم دسترسي به موارد بالا، شناسه قبض همسايه خود را اخذ نموده با سامانه خدمات تلفني شركت توزيع تماس بگيريد.","q5":"5- آيا تغيير تعرفه نيازمند بازديد از محل مي باشد؟","a5":"بله. به منظور تطبيق شرايط محل مصرف برق با مجوزات ارائه شده، توسط كارشناس شركت توزيع برق از محل انشعاب بازديد به عمل خواهد آمد."},"صدور قبض پایان دوره برای مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"صدور قبض پایان دوره برای مشترکین شرکت های توزیع نیروی برق","serviceNameEn":"Issuance of end-of-period bill for subscribers of power distribution companies","serviceDescription":"مشترکین اطلاعات پرداخت آخرین قبض خود را با استفاده از این خدمت می توانند دریافت نمایند.","serviceDescriptionEn":"Subscribers can receive their latest bill payment information using this service.","serviceLink":"https://bargheman.com/auth","serviceTime":"آنی","serviceResponsible":"معاونت فروش و خدمات مشترکین","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض","serviceMethod":"الکترونیکی","serviceSlaLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/sla.pdf","serviceGuideLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/guideC.pdf","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465103","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/chart-13031465103.JPG","q1":"1- نحوه دسترسی به این خدمت به چه روشهایی ممکن است؟","a1":"جهت دریافت قبض پایان دوره خود می توانید از طریق روشهای های زیر اقدام کنید:  استفاده از اپلیکیشن برق من یا سامانه برق من (https://bargheman.com)، مراجعه به وبسایت شرکت های توزیع، مراجعه به دفاتر پیشخوان","q2":"2- جهت دریافت قبض پایان دوره چه مدارک و اطلاعاتی مورد نیاز است؟","a2":"شناسه قبض کافیست.","q3":"3- راهنمای دریافت قبض پایان دوره به چه نحوی است؟","a3":"راهنمای استفاده از این خدمت را می توانید با مراجعه به وبسایت شرکت توزیع و از قسمت معرفی خدمات دریافت کنید.","q4":"4- آیا امکان پرداخت الکترونیکی قبض پایان دوره موجود است؟","a4":"شما می توانید از طریق اپلیکیشن برق من و یا وبسایت برق منو ... اقدام به پرداخت  قبض خود نمایید.","q5":"5- چطور می توان سوالات و اشکالات خود را در امورد این خدمت مطرح کرد؟","a5":"از طریق اپلیکیشن و سامانه برق من، از طریق چت آنلاین در وبسایت شرکت، ارسال ایمیل به شرکتف تماس تلفنی با واحد مربوط در شرکت توزیع"},"رسیدگی به درخواست بررسی صورت حساب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"رسیدگی به درخواست بررسی صورت حساب مشترکین شرکت های توزیع نیروی برق","serviceNameEn":"Examining the request to review the bills of the subscribers of electricity distribution companies","serviceDescription":"مشترکین می توانند به منظور بررسی صورت¬حساب، درخواست خود را به صورت غیرحضوری ثبت نمایند تا موارد جهت صحیح یا غلط بودن صورتحساب صادره بررسی گردد و در صورت وارد بودن درخواست، قبض اصلاح گردد.","serviceDescriptionEn":"Subscribers can register their request in absentia in order to check the invoice so that the items can be checked for the correctness or incorrectness of the issued invoice and if the request is received the bill will be corrected.","serviceLink":"https://bargheman.com/auth","serviceTime":"5 روز کاری","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض محل مصرف///مستندات مربوط به اعتراض(تصویر ارقام کنتور - محاسبات و ...)","serviceMethod":"الکترونیکی","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465104","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465104.jpg","q1":"1- نحوه محاسبه برق مصرفی مشترک چگونه است ؟","a1":"محاسبه صورتحساب طبق آخرین دستورالعمل ابلاغی شرکت توانیر انجام میگیرد.","q2":"2- گزینه انتخاب در صورت حسابها به چه مفهومی است ؟","a2":"گزینه در واقع انتخابی است برای نرخهای دیماند و انرژی نصرفی بدین صورت که مشترک بر اساس رفتار مصرفی برق خود در بازه های زمانی یکسال می تواند تعیین کند که نرخ انرژی بالا و یا دیماند بالای پرداخت نماید بری مثال در مواردی که کارخانه در چند ماه از سال بدلایلی مصرفی کلی داشته باشد و یا بدون مصرف باشد مشترک می تواند برای آن مقاطع زمانی تقاضای گزینه ۱ و یا ۳ بنماید تا نرخ دیماند کمتری را پرداخت نماید و پس از سپری شدن زمان فوق و عوض شدن رفتار مصرفی کارخانه می تواند مجدداً گزینه ۱ را انتخاب نماید","q3":"3- مدارک مورد نیاز برای درخواست بررسی صورت حساب چیست ؟","a3":"- آخرین قبض یا رسید پرداختی <br>-  قبض دارای مشکل","q4":"4- درصورتیکه به مبلغ قبض صادره اعتراض داشته باشیم چه مراحلی طی می شود ؟","a4":"پس از ثبت درخواست ، کارشناسان شرکت موارد ذیل را چک کرده و نسبت به تایید یا اصلاح قبض اقدام می کنند:<br> -  چک کردن قرائت صحیح کنتور<br> -  مصارف دوره قبل<br>- تست کنتور","q5":"5- در صورتیکه به تعرفه یا به بدهی قبلی اعتراض داشته باشیم چه مراحلی طی می شود ?","a5":"تعرفه : پس از ثبت درخواست در صورتیکه نوع تعرفه در قبض اشتباه درج شده باشد اصلاح می گردد .<br>بدهی: بدهی قبلی مشترک مورد بررسی قرار گرفته و پس از بررسی نسبت به تایید یا اصلاح قبض اقدام می شود."},"ارائه سوابق مصارف و پرداخت مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"ارائه سوابق مصارف و پرداخت مشترکین شرکت های توزیع نیروی برق","serviceNameEn":"Provide records of consumption and payment of subscribers of power distribution companies","serviceDescription":"مشترکین با استفاده از این خدمت سوابق مصارف و صورت حساب خود را می توانند مشاهده نمایند.","serviceDescriptionEn":"Subscribers can view their usage records and bills using this service","serviceLink":"https://bargheman.com/auth","serviceTime":"آنی","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض محل مصرف","serviceMethod":"الکترونیکی","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465105","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465105.jpg","q1":"1 - چه اطلاعاتی در سوابق مصارف مشترکین نمایش داده می شود؟","a1":"نوع صورتحساب، سال و دوره ، تاریخ قرائت قبلی و فعلی صورتحساب، تعداد روز، میزان مصرف تعرفه اوج بار- میان باری و کم باری، جمع مصرف، متوسط مصرف و مبلغ قابل پرداخت و ...","q2":"2- آیا امکان مشاهده نمودار مصرف مشترکین نیز وجود دارد؟","a2":"بله . نمودار متوسط مصرف در بازه چند ساله به صورت خطی و به تفکیک هر دوره قابل مشاهده است.","q3":"3- آیا در سوابق پرداخت اطلاعات بانکی که از طریق آن صورتحساب پرداخت شده نیز نمایش داده می شود؟","a3":"بله ، نام بانکی که از طریق آن صورتحساب پرداخت شده و همچنین نحوه پرداخت (تلفنبانک، ATM، POS و ...) نمایش داده می شود","q4":"4-  چه اطلاعاتی در سوابق پرداخت مشترکین نمایش داده می شود؟","a4":"تاریخ صورتحساب، مبلغ صورتحساب، بدهی قبلی، مبلغ قابل پرداخت، مبلغ وصولی، تاریخ پرداخت، تاریخ اعمال، بانک، نحوه پرداخت، نام شعبه و ...","q5":"5- آیا می توان خروجی از گزارش وضعیت مصارف و پرداخت صورتحساب از سامانه تهیه نمود ؟","a5":"بله امکان خروجی اکسل و پی دی اف از اطلاعات نمایش داده شده وجود دارد."},"ارائه قبوض برق تجمیعی سازمان ها و ادارات":{"serviceCode":13031465100,"serviceName":"ارائه قبوض برق تجمیعی سازمان ها و ادارات","serviceNameEn":"Provide cumulative electricity bills for organizations and departments","serviceDescription":"توسط این خدمت، مشترکین ادارات و سازمانها میتوانند شناسه قبض مربوط به اشتراکهای خود را ثبت و صورتحساب تجمیع شده اشتراکهای اعلام شده را دریافت نمایند.","serviceDescriptionEn":"With this service, subscribers of departments and organizations can register the bill ID related to their subscriptions and receive the aggregated invoice of the announced subscriptions.","serviceLink":"https://bargheman.com/auth","serviceTime":"آنی","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض اشتراکهای مرتبط با سازمان","serviceMethod":"الکترونیکی","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465107","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465107.jpg"},"اعلام بدهی بر اساس خوداظهاری مصرف برق مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"اعلام بدهی بر اساس خوداظهاری مصرف برق مشترکین شرکت های توزیع نیروی برق","serviceNameEn":"Debt declaration based on self-declaration of electricity consumption of subscribers of power distribution companies","serviceDescription":"در این خدمت مشترکان در مواردی مثل قرائت در بسته می‌توانند با قرائت کنتور و وارد کردن میزان برق مصرفی برای مصارف خانگی، عمومی، کشاورزی، صنعتی و سایر مصارف (تجاری) نسبت به ثبت مصرف، محاسبه صورتحساب خود و دریافت صورتحساب و شناسه قبض و شناسه پرداخت اقدام نمایند.\r\nتذکر: قبض ارائه شده براساس خود اظهاری مشترک، علی الحساب بوده و به منزله تسویه کامل نمی باشد.","serviceDescriptionEn":"This service enables customers including residential, general, agricultural, industrial and others (commercial) to report their electricity consumption by themselves (due to different reasons such as absence of the residents during the meter reading days), calculate their bills and finally receive the bill and pay ID.\r\nNote: Received bills based on customer's self-report is an \"on-account bill\" and is not considered as full payment.","serviceLink":"https://bargheman.com/auth","serviceTime":"آنی","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض محل مصرف///تاریخ و ارقام قرائت کنتور و تصویر آن","serviceMethod":"الکترونیکی","serviceGuideLink":"https://www.aparat.com/v/76Ia1","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=13031465108","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465108.jpg","q1":"1. آیا می توان به جای خواندن و درج رقم کنتور، تصویر آن را در اپلیکیشن بارگذاری کرد؟","a1":"بله، مشترک می تواند در مرحلۀ ثبت ارقام کنتور، با استفاده از گزینۀ تصویر کنتور و برداشت عکس از کارکرد کنتور، میزان مصرف خود را ثبت کند.","q2":"2. آیا در صورت خوداظهاری، قبض میان دوره برای مشترک صادر می شود؟","a2":"خیر. با اعلام رقم کنتور از سوی مشترک، صورتحساب به روز از مصرف دورۀ قبل تا رقم جدید برای او صادر می شود اما به عنوان صورتحساب قطعی در سوابق مشترک درج نمی شود.","q3":"3. آیا در صورت خوداظهاری و پرداخت بدهی، سابقۀ پرداخت آن در اپلیکیشن برق من ثبت می شود؟","a3":"بله، مبلغ پرداخت شده در سوابق پرداخت درج می شود.","q4":"4. چگونه می توانم رقم میزان مصرف برق را قرائت و درج نمایم؟","a4":"با ورود به اپلیکیشن برق من در بخش خوداظهاری قرائت کنتور، راهنمای قرائت کنتور قابل دریافت است.","q5":"5. در صورتی که پس از خوداظهاری و پرداخت بدهی، سابقۀ پرداخت در اپلیکیشن درج نشود، از چه طریق می توان این موضوع را پیگیری نمود؟","a5":"مشترکان می توانند با ثبت تیکت در بخش پرسش و پاسخ مسئلۀ مورد نظرشان را پیگیری کنند."},"تمدید تعرفه انشعاب آمپری شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تمدید تعرفه انشعاب آمپری شرکت های توزیع نیروی برق","serviceNameEn":"Extension of amperage tariff for power distribution companies","serviceDescription":"توسط این خدمت، چنانچه محل تامین برق دارای تعرفه مدت دار باشد و مدت آن به اتمام رسیده باشد ، مشترک میتواند با ارائه مدارک و مجوز های لازم ، نسبت به تمدید تعرفه اقدام نماید.","serviceDescriptionEn":"By this service, if the electricity supply place has a long-term tariff and its term has expired, the subscriber can extend the tariff by providing the necessary documents and permits.","serviceLink":"https://bargheman.com/auth","serviceTime":"7 روز کاری","serviceResponsible":"معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات","serviceResponsibleContact":1521,"serviceRequirements":"شناسه قبض محل مصرف///مدارک مربوط به تعرفه درخواستی","serviceMethod":"الکترونیکی","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=190918086575","serviceProcessImageLink":"https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465109.jpg","q1":"1- برای تمدید چگونه باید اقدام کرد","a1":"گام نخست، ثبت درخواست الكترونيك در اپليكيشن و يا وبسايت » برق من « با در دست داشتن شناسه قبض انشعاب مورد نظر مي باشد.","q2":"2- اگر در مورد اين خدمت ابهام داشتم از كجا مشاوره بگيرم؟","a2":"در صورت نياز به مشاوره، مي توانيد با سامانه خدمات تلفني شركت توزيع برق مربوطه","q3":"3- مدارك مورد نياز چيست؟","a3":"بسته به نوع تعرفه انشعاب، مدارك تفاوت دارند. ليكن مدارك اصلي عبارتند از: پروانه بهره برداري واحد صنعتي، پروانه چاه آب، پروانه ساختمان","q4":"4- شناسه قبض انشعاب برق را از كجا بايد پيدا كنم؟","a4":"شناسه قبض انشعاب در پيامك هاي قبض برق، بصورت مستمر ارسال مي گردد. همچنين برچسب مشخصات انشعاب در محل تابلو كنتور برق نصب شده است كه حاوي شناسه قبض انشعاب برق مي باشد. در صورت عدم دسترسي به موارد بالا، شناسه قبض همسايه خود را اخذ نموده با سامانه خدمات تلفني شركت توزيع تماس بگيريد.","q5":"5- آیا برای تمدید نیاز به بازدید می باشد","a5":"بله. به منظور تطبيق شرايط محل مصرف برق با مجوزات ارائه شده، توسط كارشناس شركت توزيع برق از محل انشعاب بازديد به عمل خواهد آمد."},"رسیدگی به گزارش های استفاده غیرمجاز از برق":{"serviceCode":13031465100,"serviceName":"رسیدگی به گزارش های استفاده غیرمجاز از برق","serviceNameEn":"Investigate reports of unauthorized use of electricity","serviceDescription":"توسط این خدمت، چنانچه شخصی در جایی استفاده غیرمجاز از برق(به طرق مختلف) را مشاهده نماید ، میتواند گزارش خود را برای شرکت توزیع ارسال نماید تا بررسی های لازم و جلوگیری از استفاده غیرمجاز توسط شرکت توزیع برق انجام گیرد.","serviceDescriptionEn":"By this service, if a person observes the unauthorized use of electricity somewhere (in various ways), she can send her report to the distribution company so that the necessary investigations and prevention of unauthorized use by the electricity distribution company can be done.","serviceLink":"https://bargheman.com/auth","serviceTime":"1 ماه","serviceResponsible":"معاونت مشترکین - دفتر لوازم اندازه گیری","serviceResponsibleContact":1521,"serviceRequirements":"گزارش محل مصرف غیرمجاز///تصویر از محل مصرف غیرمجاز(درصورت امکان)","serviceMethod":"الکترونیکی","ServiceMardomLink":"https://khadamat.mardom.ir/Service/Details?ServiceId=190918086576","q1":"1- آیا اطلاعات شخصی که گزارش غیرمجاز میدهد در اختیار دیگران قرار نخواهد گرفت ؟","a1":"اطلاعات کلیه گزارش دهندگان مصارف غیرمجاز نزد شرکت توزیع محفوظ خواهد ماند و به هیچ عنوان در اختیار دیگران قرار نخواهد گرفت.","q2":"2- آیا ارائه گزارش مصارف غیرمجاز در محدوده های دیگری غیر از محل سکونت ارائه دهنده گزارش امکان پذیر میباشد ؟","a2":"گزارشات ارائه شده میتواند بدون توجه به محل سکونت ارائه دهنده گزارش ثبت گردد و درصورت لزوم، هماهنگی با ارائه دهنده گزارش از طریق مشخصات و شماره تماس ثبت شده توسط ایشان انجام خواهد شد.","q3":"3- آیا امکان ثبت چند گزارش توسط یک شخص وجود دارد ؟","a3":"هر شخص میتواند به هر تعداد گزارش استفاده غیرمجاز از برق ارائه نماید.","q4":"4- پیگیری نتایج گزارش ها به چه صورت خواهد بود ؟","a4":"پس از ثبت هر درخواست کد رهگیری درخواست ارائه میگردد. و از طریق کد رهگیری در سامانه برق من میتوان از نتیجه بررسی گزارش ارائه شده مطلع شد.","q5":"5- پرداخت پاداش ارائه گزارش استفاده غیرمجاز برق به چه صورت میباشد ؟","a5":"براساس دستورالعملهای ارائه شده از دستگاه بالادستی و مصوبات شرکت توزیع ، در صورت امکان مقادیر پاداش قابل پرداخت خواهد بود."},"تغییر مکان داخلی لوازم اندازه گیری انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تغییر مکان داخلی لوازم اندازه گیری انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"نصب مجدد انشعاب  مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"نصب مجدد انشعاب  مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"جمع آوری موقت انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"جمع آوری موقت انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"جمع آوری دائم انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"جمع آوری دائم انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"اصلاح اطلاعات مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"اصلاح اطلاعات مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"اصلاح نام مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"اصلاح نام مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"تغییر نام مشترکین (تغییر مالکیت انشعاب) شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تغییر نام مشترکین (تغییر مالکیت انشعاب) شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"تست و تعویض کنتور مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تست و تعویض کنتور مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"اصلاح سرویس انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"اصلاح سرویس انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"قطع موقت انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"قطع موقت انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"وصل مجدد انشعاب مشترکین  شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"وصل مجدد انشعاب مشترکین  شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"اصلاح شماره تلفن همراه ثبت شده برای اشتراک برق شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"اصلاح شماره تلفن همراه ثبت شده برای اشتراک برق شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"افزایش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"افزایش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"کاهش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"کاهش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"برقراری انشعاب آمپری توسط شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"برقراری انشعاب آمپری توسط شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"تفکیک یا ادغام انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"تفکیک یا ادغام انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"کاهش موقت آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق":{"serviceCode":13031465100,"serviceName":"کاهش موقت آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق","serviceLink":"https://bargheman.com/auth"},"رفع خسارت وارده به شبکه برق":{"serviceCode":13031465100,"serviceName":"رفع خسارت وارده به شبکه برق","serviceLink":"https://bargheman.com/auth"},"رسیدگی به گزارش سرقت لوازم و ادوات برق":{"serviceCode":13031465100,"serviceName":"رسیدگی به گزارش سرقت لوازم و ادوات برق","serviceLink":"https://bargheman.com/auth"},"رفع حریم برق":{"serviceCode":13031465100,"serviceName":"رفع حریم برق","serviceLink":"https://bargheman.com/auth"},"رفع خطر از تاسیسات مخاطره آمیز برق":{"serviceCode":13031465100,"serviceName":"رفع خطر از تاسیسات مخاطره آمیز برق","serviceLink":"https://bargheman.com/auth"},"نصب مولد خورشیدی مشترکین برق (ویژه متقاضیان کمتر از 200 کیلووات)":{"serviceCode":13031465100,"serviceName":"نصب مولد خورشیدی مشترکین برق (ویژه متقاضیان کمتر از 200 کیلووات)","serviceLink":"https://bargheman.com/auth"},"ارائه صورتحساب مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)":{"serviceCode":13031465100,"serviceName":"ارائه صورتحساب مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)","serviceLink":"https://bargheman.com/auth"},"ارائه گزارش انرژی تحویلی مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)":{"serviceCode":13031465100,"serviceName":"ارائه گزارش انرژی تحویلی مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)","serviceLink":"https://bargheman.com/auth"},"خاموشی موقت برق به درخواست متقاضی":{"serviceCode":13031465100,"serviceName":"خاموشی موقت برق به درخواست متقاضی","serviceLink":"https://bargheman.com/auth"},"ارائه گزارش خاموشی های برق":{"serviceCode":13031465100,"serviceName":"ارائه گزارش خاموشی های برق","serviceLink":"https://bargheman.com/auth"},"رفع خاموشی های مشترکین برق":{"serviceCode":13031465100,"serviceName":"رفع خاموشی های مشترکین برق","serviceLink":"https://bargheman.com/auth"},"رفع مشکل ولتاژ شبکه برق":{"serviceCode":13031465100,"serviceName":"رفع مشکل ولتاژ شبکه برق","serviceLink":"https://bargheman.com/auth"},"رفع مشکل روشنایی معابر":{"serviceCode":13031465100,"serviceName":"رفع مشکل روشنایی معابر","serviceLink":"https://bargheman.com/auth"},"ارائه فهرست تامین کنندگان مجاز کالاهای مرتبط با صنعت برق":{"serviceCode":13031465100,"serviceName":"ارائه فهرست تامین کنندگان مجاز کالاهای مرتبط با صنعت برق","serviceLink":"https://bargheman.com/auth"},"ارائه لیست پیمانکاران تایید شده حوزه برق":{"serviceCode":13031465100,"serviceName":"ارائه لیست پیمانکاران تایید شده حوزه برق","serviceLink":"https://bargheman.com/auth"},"ارائه دستورالعمل و نقشه ساخت تجهیزات و تابلوهای برق (13031987000)":{"serviceCode":13031465100,"serviceName":"ارائه دستورالعمل و نقشه ساخت تجهیزات و تابلوهای برق (13031987000)","serviceLink":"https://bargheman.com/auth"},"فرهنگ سازی مدیریت مصرف برق":{"serviceCode":13031465100,"serviceName":"فرهنگ سازی مدیریت مصرف برق","serviceLink":"https://bargheman.com/auth"},"کنترل پیک بار مصرف برق":{"serviceCode":13031465100,"serviceName":"کنترل پیک بار مصرف برق","serviceLink":"https://bargheman.com/auth"},"تعیین رتبه انرژی ساختمان های اداری":{"serviceCode":13031465100,"serviceName":"تعیین رتبه انرژی ساختمان های اداری","serviceLink":"https://bargheman.com/auth"}}
+{
+  "serviceName": {
+    "serviceCode": "serviceCode",
+    "serviceName": "serviceName",
+    "serviceNameEn": "serviceNameEn",
+    "serviceDescription": "serviceDescription",
+    "serviceDescriptionEn": "serviceDescriptionEn",
+    "serviceLink": "serviceLink",
+    "serviceTime": "serviceTime",
+    "serviceResponsible": "serviceResponsible",
+    "serviceResponsibleContact": "serviceResponsibleContact",
+    "serviceRequirements": "serviceRequirements",
+    "serviceMethod": "serviceMethod",
+    "serviceSlaLink": "serviceSlaLink",
+    "serviceGuideLink": "serviceGuideLink",
+    "ServiceMardomLink": "ServiceMardomLink",
+    "serviceProcessImageLink": "serviceProcessImageLink",
+    "q1": "q1",
+    "a1": "a1",
+    "q2": "q2",
+    "a2": "a2",
+    "q3": "q3",
+    "a3": "a3",
+    "q4": "q4",
+    "a4": "a4",
+    "q5": "q5",
+    "a5": "a5"
+  },
+  "عنوان خدمت": {
+    "serviceCode": "کد خدمت",
+    "serviceName": "عنوان خدمت",
+    "serviceDescription": "شرح خدمت",
+    "serviceLink": "لینک دریافت خدمت",
+    "serviceTime": "متوسط زمان ارائه خدمت",
+    "serviceResponsible": "واحد پاسخگو",
+    "serviceResponsibleContact": "شماره تماس واحد پاسخگو",
+    "serviceRequirements": "مدارک لازم",
+    "serviceMethod": "نحوه ارائه خدمت",
+    "serviceSlaLink": "توافقنامه سطخ خدمت (SLA)",
+    "serviceGuideLink": "راهنمای استفاده از خدمت",
+    "ServiceMardomLink": "اطلاعات تکمیلی خدمت(سامانه مردم)",
+    "serviceProcessImageLink": "فرآیند خدمت"
+  },
+  "تسویه حساب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تسویه حساب مشترکین شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Settlement of subscribers of electricity distribution companies",
+    "serviceDescription": "با استفاده از این خدمت مشترکین می توانند صورت حساب خارج از دوره خود را ثبت و پیگیری نمایند",
+    "serviceDescriptionEn": "Using this service subscribers can register and track their out-of-period bills",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "8 روز کاری",
+    "serviceResponsible": "معاونت مشترکین - واحد قطع و وصل",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض محل مصرف",
+    "serviceMethod": "الکترونیکی",
+    "serviceSlaLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/slaC.pdf",
+    "serviceGuideLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/guide.xlsx",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465100",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465100.jpg",
+    "q1": "1.  مدت زمان ارائه خدمت چند روز می باشد؟",
+    "a1": "بطور متوسط 8 روز کاری طوال خواهد کشید .",
+    "q2": "2-  آیا صورتحساب های صادره دقیقا وفق نرخ های مصوب وزارت نیرو صادر شده است ؟",
+    "a2": "بله  بر اساس شرایط تعرفه های برق مصوب وزارت نیرو و صادر می گردد.",
+    "q3": "3-  آیا لوازم اندازه گیری تست و عمکلرد آن مورد سنجش و تایید قرار می گیرد ؟",
+    "a3": "بله   فرآیند تست لوازم اندازه گیری انجام می یابد .",
+    "q4": "4- آیا پیگیری فرآیند تسویه حساب بصورت غیر حضوری توسط مشترک مقدور میباشد؟",
+    "a4": "بله : مشترک از نتایج فرآیند با مراجعه بخش پیگیری برنامه برق من  مطلع خواهد گردید.",
+    "q5": "5-  آیا در فرآیند توسیه حساب فقط بدهی برق مصرفی پرداخت می گردد؟",
+    "a5": "نخیر : در این فرآیند لو.ارم اندازه گیری تست  آخرین صورتحساب برق مصرفی  صادر و کل  بدهی تسویه می گردد."
+  },
+  "تسویه بدهی مشترکین شرکت های توزیع  نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تسویه بدهی مشترکین شرکت های توزیع  نیروی برق",
+    "serviceNameEn": "Debt settlement of electricity distribution companies",
+    "serviceDescription": "مشترکین می توانند درخواست تسویه بدهی انشعاب خود را به صورت غیر حضوری ارائه دهند.",
+    "serviceDescriptionEn": "customers can apply for debt settlement of their electricity branches in absentia",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "آنی",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض محل مصرف",
+    "serviceMethod": "الکترونیکی",
+    "serviceGuideLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/guide.jpg",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465101",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465101.jpg",
+    "q1": "1- برای دریافت این خدمت به چه صورت اقدام کنیم؟",
+    "a1": "مراجعه به اپلیکیشن برق من - سایت شرکت توزیع -دفاتر پیشخوان - مرکز پاسخگویی تلفنی 1521و ...",
+    "q2": "2- چگونه بدهی انشعاب برق خویش را پرداخت نمایم؟",
+    "a2": "از طریق درگاههای متصل به سامانه اپلیکیشن برق من و ساپا و 1521",
+    "q3": "3- برای دسترسی به این خدمت چه اطلاعاتی نیاز است؟",
+    "a3": "شناسه قبض، بدنه کنتور یا شماره تلفن همراه",
+    "q4": "4- شناسه قبض انشعاب برق خویش را چطور می توانم دریافت کنم؟",
+    "a4": ":شماره بدنه کنتور برق خویش را در اپلیکیشن برق من وارد نموده تا شناسه قبض انشعاب برق را مشاهده نماید و همینطور در سایت شرکت توزیع",
+    "q5": "5-   مدت زمان دریافت  این خدمت چقدر است   ؟",
+    "a5": "آنی"
+  },
+  "تغییر تعرفه یا گزینه تعرفه انشعاب آمپری شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تغییر تعرفه یا گزینه تعرفه انشعاب آمپری شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Change tariff or normal branch tariff option",
+    "serviceDescription": "اصلاح كد محاسباتي هزينه انرژي براساس نوع مصرف",
+    "serviceDescriptionEn": "Modify the energy cost calculation code based on the type of consumption",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "15 روز کاری",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض انشعاب برق///پروانه و مجوزات معتبر///ثبت درخواست توسط مالك انشعاب يا مصرف كننده قانوني",
+    "serviceMethod": "الکترونیکی",
+    "serviceSlaLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/slaCC.pdf",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465102",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465101C.jpg",
+    "q1": "1- براي تغيير تعرفه انشعاب برق از كجا بايد شروع كرد؟",
+    "a1": "گام نخست، ثبت درخواست الكترونيك در اپليكيشن و يا وبسايت » برق من « با در دست داشتن شناسه قبض انشعاب مورد نظر مي باشد.",
+    "q2": "2- اگر در مورد اين خدمت ابهام داشتم از كجا مشاوره بگيرم؟",
+    "a2": "در صورت نياز به مشاوره، مي توانيد با سامانه خدمات تلفني شركت توزيع برق مربوطه",
+    "q3": "3- مدارك مورد نياز چيست؟",
+    "a3": "بسته به نوع تعرفه انشعاب، مدارك تفاوت دارند. ليكن مدارك اصلي عبارتند از: پروانه بهره برداري واحد صنعتي، پروانه چاه آب، پروانه ساختمان",
+    "q4": "4- شناسه قبض انشعاب برق را از كجا بايد پيدا كنم؟",
+    "a4": "شناسه قبض انشعاب در پيامك هاي قبض برق، بصورت مستمر ارسال مي گردد. همچنين برچسب مشخصات انشعاب در محل تابلو كنتور برق نصب شده است كه حاوي شناسه قبض انشعاب برق مي باشد. در صورت عدم دسترسي به موارد بالا، شناسه قبض همسايه خود را اخذ نموده با سامانه خدمات تلفني شركت توزيع تماس بگيريد.",
+    "q5": "5- آيا تغيير تعرفه نيازمند بازديد از محل مي باشد؟",
+    "a5": "بله. به منظور تطبيق شرايط محل مصرف برق با مجوزات ارائه شده، توسط كارشناس شركت توزيع برق از محل انشعاب بازديد به عمل خواهد آمد."
+  },
+  "صدور قبض پایان دوره برای مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "صدور قبض پایان دوره برای مشترکین شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Issuance of end-of-period bill for subscribers of power distribution companies",
+    "serviceDescription": "مشترکین اطلاعات پرداخت آخرین قبض خود را با استفاده از این خدمت می توانند دریافت نمایند.",
+    "serviceDescriptionEn": "Subscribers can receive their latest bill payment information using this service.",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "آنی",
+    "serviceResponsible": "معاونت فروش و خدمات مشترکین",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض",
+    "serviceMethod": "الکترونیکی",
+    "serviceSlaLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/sla.pdf",
+    "serviceGuideLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/guideC.pdf",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465103",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/chart-13031465103.JPG",
+    "q1": "1- نحوه دسترسی به این خدمت به چه روشهایی ممکن است؟",
+    "a1": "جهت دریافت قبض پایان دوره خود می توانید از طریق روشهای های زیر اقدام کنید:  استفاده از اپلیکیشن برق من یا سامانه برق من (https://bargheman.com)، مراجعه به وبسایت شرکت های توزیع، مراجعه به دفاتر پیشخوان",
+    "q2": "2- جهت دریافت قبض پایان دوره چه مدارک و اطلاعاتی مورد نیاز است؟",
+    "a2": "شناسه قبض کافیست.",
+    "q3": "3- راهنمای دریافت قبض پایان دوره به چه نحوی است؟",
+    "a3": "راهنمای استفاده از این خدمت را می توانید با مراجعه به وبسایت شرکت توزیع و از قسمت معرفی خدمات دریافت کنید.",
+    "q4": "4- آیا امکان پرداخت الکترونیکی قبض پایان دوره موجود است؟",
+    "a4": "شما می توانید از طریق اپلیکیشن برق من و یا وبسایت برق منو ... اقدام به پرداخت  قبض خود نمایید.",
+    "q5": "5- چطور می توان سوالات و اشکالات خود را در امورد این خدمت مطرح کرد؟",
+    "a5": "از طریق اپلیکیشن و سامانه برق من، از طریق چت آنلاین در وبسایت شرکت، ارسال ایمیل به شرکتف تماس تلفنی با واحد مربوط در شرکت توزیع"
+  },
+  "رسیدگی به درخواست بررسی صورت حساب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رسیدگی به درخواست بررسی صورت حساب مشترکین شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Examining the request to review the bills of the subscribers of electricity distribution companies",
+    "serviceDescription": "مشترکین می توانند به منظور بررسی صورت¬حساب، درخواست خود را به صورت غیرحضوری ثبت نمایند تا موارد جهت صحیح یا غلط بودن صورتحساب صادره بررسی گردد و در صورت وارد بودن درخواست، قبض اصلاح گردد.",
+    "serviceDescriptionEn": "Subscribers can register their request in absentia in order to check the invoice so that the items can be checked for the correctness or incorrectness of the issued invoice and if the request is received the bill will be corrected.",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "5 روز کاری",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض محل مصرف///مستندات مربوط به اعتراض(تصویر ارقام کنتور - محاسبات و ...)",
+    "serviceMethod": "الکترونیکی",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465104",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465104.jpg",
+    "q1": "1- نحوه محاسبه برق مصرفی مشترک چگونه است ؟",
+    "a1": "محاسبه صورتحساب طبق آخرین دستورالعمل ابلاغی شرکت توانیر انجام میگیرد.",
+    "q2": "2- گزینه انتخاب در صورت حسابها به چه مفهومی است ؟",
+    "a2": "گزینه در واقع انتخابی است برای نرخهای دیماند و انرژی نصرفی بدین صورت که مشترک بر اساس رفتار مصرفی برق خود در بازه های زمانی یکسال می تواند تعیین کند که نرخ انرژی بالا و یا دیماند بالای پرداخت نماید بری مثال در مواردی که کارخانه در چند ماه از سال بدلایلی مصرفی کلی داشته باشد و یا بدون مصرف باشد مشترک می تواند برای آن مقاطع زمانی تقاضای گزینه ۱ و یا ۳ بنماید تا نرخ دیماند کمتری را پرداخت نماید و پس از سپری شدن زمان فوق و عوض شدن رفتار مصرفی کارخانه می تواند مجدداً گزینه ۱ را انتخاب نماید",
+    "q3": "3- مدارک مورد نیاز برای درخواست بررسی صورت حساب چیست ؟",
+    "a3": "- آخرین قبض یا رسید پرداختی <br>-  قبض دارای مشکل",
+    "q4": "4- درصورتیکه به مبلغ قبض صادره اعتراض داشته باشیم چه مراحلی طی می شود ؟",
+    "a4": "پس از ثبت درخواست ، کارشناسان شرکت موارد ذیل را چک کرده و نسبت به تایید یا اصلاح قبض اقدام می کنند:<br> -  چک کردن قرائت صحیح کنتور<br> -  مصارف دوره قبل<br>- تست کنتور",
+    "q5": "5- در صورتیکه به تعرفه یا به بدهی قبلی اعتراض داشته باشیم چه مراحلی طی می شود ?",
+    "a5": "تعرفه : پس از ثبت درخواست در صورتیکه نوع تعرفه در قبض اشتباه درج شده باشد اصلاح می گردد .<br>بدهی: بدهی قبلی مشترک مورد بررسی قرار گرفته و پس از بررسی نسبت به تایید یا اصلاح قبض اقدام می شود."
+  },
+  "ارائه سوابق مصارف و پرداخت مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه سوابق مصارف و پرداخت مشترکین شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Provide records of consumption and payment of subscribers of power distribution companies",
+    "serviceDescription": "مشترکین با استفاده از این خدمت سوابق مصارف و صورت حساب خود را می توانند مشاهده نمایند.",
+    "serviceDescriptionEn": "Subscribers can view their usage records and bills using this service",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "آنی",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض محل مصرف",
+    "serviceMethod": "الکترونیکی",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465105",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465105.jpg",
+    "q1": "1 - چه اطلاعاتی در سوابق مصارف مشترکین نمایش داده می شود؟",
+    "a1": "نوع صورتحساب، سال و دوره ، تاریخ قرائت قبلی و فعلی صورتحساب، تعداد روز، میزان مصرف تعرفه اوج بار- میان باری و کم باری، جمع مصرف، متوسط مصرف و مبلغ قابل پرداخت و ...",
+    "q2": "2- آیا امکان مشاهده نمودار مصرف مشترکین نیز وجود دارد؟",
+    "a2": "بله . نمودار متوسط مصرف در بازه چند ساله به صورت خطی و به تفکیک هر دوره قابل مشاهده است.",
+    "q3": "3- آیا در سوابق پرداخت اطلاعات بانکی که از طریق آن صورتحساب پرداخت شده نیز نمایش داده می شود؟",
+    "a3": "بله ، نام بانکی که از طریق آن صورتحساب پرداخت شده و همچنین نحوه پرداخت (تلفنبانک، ATM، POS و ...) نمایش داده می شود",
+    "q4": "4-  چه اطلاعاتی در سوابق پرداخت مشترکین نمایش داده می شود؟",
+    "a4": "تاریخ صورتحساب، مبلغ صورتحساب، بدهی قبلی، مبلغ قابل پرداخت، مبلغ وصولی، تاریخ پرداخت، تاریخ اعمال، بانک، نحوه پرداخت، نام شعبه و ...",
+    "q5": "5- آیا می توان خروجی از گزارش وضعیت مصارف و پرداخت صورتحساب از سامانه تهیه نمود ؟",
+    "a5": "بله امکان خروجی اکسل و پی دی اف از اطلاعات نمایش داده شده وجود دارد."
+  },
+  "ارائه قبوض برق تجمیعی سازمان ها و ادارات": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه قبوض برق تجمیعی سازمان ها و ادارات",
+    "serviceNameEn": "Provide cumulative electricity bills for organizations and departments",
+    "serviceDescription": "توسط این خدمت، مشترکین ادارات و سازمانها میتوانند شناسه قبض مربوط به اشتراکهای خود را ثبت و صورتحساب تجمیع شده اشتراکهای اعلام شده را دریافت نمایند.",
+    "serviceDescriptionEn": "With this service, subscribers of departments and organizations can register the bill ID related to their subscriptions and receive the aggregated invoice of the announced subscriptions.",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "آنی",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض اشتراکهای مرتبط با سازمان",
+    "serviceMethod": "الکترونیکی",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465107",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465107.jpg"
+  },
+  "اعلام بدهی بر اساس خوداظهاری مصرف برق مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "اعلام بدهی بر اساس خوداظهاری مصرف برق مشترکین شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Debt declaration based on self-declaration of electricity consumption of subscribers of power distribution companies",
+    "serviceDescription": "در این خدمت مشترکان در مواردی مثل قرائت در بسته می‌توانند با قرائت کنتور و وارد کردن میزان برق مصرفی برای مصارف خانگی، عمومی، کشاورزی، صنعتی و سایر مصارف (تجاری) نسبت به ثبت مصرف، محاسبه صورتحساب خود و دریافت صورتحساب و شناسه قبض و شناسه پرداخت اقدام نمایند.\r\nتذکر: قبض ارائه شده براساس خود اظهاری مشترک، علی الحساب بوده و به منزله تسویه کامل نمی باشد.",
+    "serviceDescriptionEn": "This service enables customers including residential, general, agricultural, industrial and others (commercial) to report their electricity consumption by themselves (due to different reasons such as absence of the residents during the meter reading days), calculate their bills and finally receive the bill and pay ID.\r\nNote: Received bills based on customer's self-report is an \"on-account bill\" and is not considered as full payment.",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "آنی",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض محل مصرف///تاریخ و ارقام قرائت کنتور و تصویر آن",
+    "serviceMethod": "الکترونیکی",
+    "serviceGuideLink": "https://www.aparat.com/v/76Ia1",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=13031465108",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465108.jpg",
+    "q1": "1. آیا می توان به جای خواندن و درج رقم کنتور، تصویر آن را در اپلیکیشن بارگذاری کرد؟",
+    "a1": "بله، مشترک می تواند در مرحلۀ ثبت ارقام کنتور، با استفاده از گزینۀ تصویر کنتور و برداشت عکس از کارکرد کنتور، میزان مصرف خود را ثبت کند.",
+    "q2": "2. آیا در صورت خوداظهاری، قبض میان دوره برای مشترک صادر می شود؟",
+    "a2": "خیر. با اعلام رقم کنتور از سوی مشترک، صورتحساب به روز از مصرف دورۀ قبل تا رقم جدید برای او صادر می شود اما به عنوان صورتحساب قطعی در سوابق مشترک درج نمی شود.",
+    "q3": "3. آیا در صورت خوداظهاری و پرداخت بدهی، سابقۀ پرداخت آن در اپلیکیشن برق من ثبت می شود؟",
+    "a3": "بله، مبلغ پرداخت شده در سوابق پرداخت درج می شود.",
+    "q4": "4. چگونه می توانم رقم میزان مصرف برق را قرائت و درج نمایم؟",
+    "a4": "با ورود به اپلیکیشن برق من در بخش خوداظهاری قرائت کنتور، راهنمای قرائت کنتور قابل دریافت است.",
+    "q5": "5. در صورتی که پس از خوداظهاری و پرداخت بدهی، سابقۀ پرداخت در اپلیکیشن درج نشود، از چه طریق می توان این موضوع را پیگیری نمود؟",
+    "a5": "مشترکان می توانند با ثبت تیکت در بخش پرسش و پاسخ مسئلۀ مورد نظرشان را پیگیری کنند."
+  },
+  "تمدید تعرفه انشعاب آمپری شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تمدید تعرفه انشعاب آمپری شرکت های توزیع نیروی برق",
+    "serviceNameEn": "Extension of amperage tariff for power distribution companies",
+    "serviceDescription": "توسط این خدمت، چنانچه محل تامین برق دارای تعرفه مدت دار باشد و مدت آن به اتمام رسیده باشد ، مشترک میتواند با ارائه مدارک و مجوز های لازم ، نسبت به تمدید تعرفه اقدام نماید.",
+    "serviceDescriptionEn": "By this service, if the electricity supply place has a long-term tariff and its term has expired, the subscriber can extend the tariff by providing the necessary documents and permits.",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "7 روز کاری",
+    "serviceResponsible": "معاونت مشترکین - دفتر نظارت بر فروش و وصول مطالبات",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "شناسه قبض محل مصرف///مدارک مربوط به تعرفه درخواستی",
+    "serviceMethod": "الکترونیکی",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=190918086575",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031465109.jpg",
+    "q1": "1- برای تمدید چگونه باید اقدام کرد",
+    "a1": "گام نخست، ثبت درخواست الكترونيك در اپليكيشن و يا وبسايت » برق من « با در دست داشتن شناسه قبض انشعاب مورد نظر مي باشد.",
+    "q2": "2- اگر در مورد اين خدمت ابهام داشتم از كجا مشاوره بگيرم؟",
+    "a2": "در صورت نياز به مشاوره، مي توانيد با سامانه خدمات تلفني شركت توزيع برق مربوطه",
+    "q3": "3- مدارك مورد نياز چيست؟",
+    "a3": "بسته به نوع تعرفه انشعاب، مدارك تفاوت دارند. ليكن مدارك اصلي عبارتند از: پروانه بهره برداري واحد صنعتي، پروانه چاه آب، پروانه ساختمان",
+    "q4": "4- شناسه قبض انشعاب برق را از كجا بايد پيدا كنم؟",
+    "a4": "شناسه قبض انشعاب در پيامك هاي قبض برق، بصورت مستمر ارسال مي گردد. همچنين برچسب مشخصات انشعاب در محل تابلو كنتور برق نصب شده است كه حاوي شناسه قبض انشعاب برق مي باشد. در صورت عدم دسترسي به موارد بالا، شناسه قبض همسايه خود را اخذ نموده با سامانه خدمات تلفني شركت توزيع تماس بگيريد.",
+    "q5": "5- آیا برای تمدید نیاز به بازدید می باشد",
+    "a5": "بله. به منظور تطبيق شرايط محل مصرف برق با مجوزات ارائه شده، توسط كارشناس شركت توزيع برق از محل انشعاب بازديد به عمل خواهد آمد."
+  },
+  "رسیدگی به گزارش های استفاده غیرمجاز از برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رسیدگی به گزارش های استفاده غیرمجاز از برق",
+    "serviceNameEn": "Investigate reports of unauthorized use of electricity",
+    "serviceDescription": "توسط این خدمت، چنانچه شخصی در جایی استفاده غیرمجاز از برق(به طرق مختلف) را مشاهده نماید ، میتواند گزارش خود را برای شرکت توزیع ارسال نماید تا بررسی های لازم و جلوگیری از استفاده غیرمجاز توسط شرکت توزیع برق انجام گیرد.",
+    "serviceDescriptionEn": "By this service, if a person observes the unauthorized use of electricity somewhere (in various ways), she can send her report to the distribution company so that the necessary investigations and prevention of unauthorized use by the electricity distribution company can be done.",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceTime": "1 ماه",
+    "serviceResponsible": "معاونت مشترکین - دفتر لوازم اندازه گیری",
+    "serviceResponsibleContact": 1521,
+    "serviceRequirements": "گزارش محل مصرف غیرمجاز///تصویر از محل مصرف غیرمجاز(درصورت امکان)",
+    "serviceMethod": "الکترونیکی",
+    "ServiceMardomLink": "https://khadamat.mardom.ir/Service/Details?ServiceId=190918086576",
+    "q1": "1- آیا اطلاعات شخصی که گزارش غیرمجاز میدهد در اختیار دیگران قرار نخواهد گرفت ؟",
+    "a1": "اطلاعات کلیه گزارش دهندگان مصارف غیرمجاز نزد شرکت توزیع محفوظ خواهد ماند و به هیچ عنوان در اختیار دیگران قرار نخواهد گرفت.",
+    "q2": "2- آیا ارائه گزارش مصارف غیرمجاز در محدوده های دیگری غیر از محل سکونت ارائه دهنده گزارش امکان پذیر میباشد ؟",
+    "a2": "گزارشات ارائه شده میتواند بدون توجه به محل سکونت ارائه دهنده گزارش ثبت گردد و درصورت لزوم، هماهنگی با ارائه دهنده گزارش از طریق مشخصات و شماره تماس ثبت شده توسط ایشان انجام خواهد شد.",
+    "q3": "3- آیا امکان ثبت چند گزارش توسط یک شخص وجود دارد ؟",
+    "a3": "هر شخص میتواند به هر تعداد گزارش استفاده غیرمجاز از برق ارائه نماید.",
+    "q4": "4- پیگیری نتایج گزارش ها به چه صورت خواهد بود ؟",
+    "a4": "پس از ثبت هر درخواست کد رهگیری درخواست ارائه میگردد. و از طریق کد رهگیری در سامانه برق من میتوان از نتیجه بررسی گزارش ارائه شده مطلع شد.",
+    "q5": "5- پرداخت پاداش ارائه گزارش استفاده غیرمجاز برق به چه صورت میباشد ؟",
+    "a5": "براساس دستورالعملهای ارائه شده از دستگاه بالادستی و مصوبات شرکت توزیع ، در صورت امکان مقادیر پاداش قابل پرداخت خواهد بود."
+  },
+  "تغییر مکان داخلی لوازم اندازه گیری انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تغییر مکان داخلی لوازم اندازه گیری انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "نصب مجدد انشعاب  مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "نصب مجدد انشعاب  مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031466103.jpg"
+  },
+  "جمع آوری موقت انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "جمع آوری موقت انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth",
+    "serviceProcessImageLink": "https://aped.ir/Dorsapax/Data/Sub_0/File/Chart_13031466103.jpg"
+  },
+  "جمع آوری دائم انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "جمع آوری دائم انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "اصلاح اطلاعات مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "اصلاح اطلاعات مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "اصلاح نام مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "اصلاح نام مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "تغییر نام مشترکین (تغییر مالکیت انشعاب) شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تغییر نام مشترکین (تغییر مالکیت انشعاب) شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "تست و تعویض کنتور مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تست و تعویض کنتور مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "اصلاح سرویس انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "اصلاح سرویس انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "قطع موقت انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "قطع موقت انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "وصل مجدد انشعاب مشترکین  شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "وصل مجدد انشعاب مشترکین  شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "اصلاح شماره تلفن همراه ثبت شده برای اشتراک برق شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "اصلاح شماره تلفن همراه ثبت شده برای اشتراک برق شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "افزایش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "افزایش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "کاهش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "کاهش آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "برقراری انشعاب آمپری توسط شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "برقراری انشعاب آمپری توسط شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "تفکیک یا ادغام انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "تفکیک یا ادغام انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "کاهش موقت آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "کاهش موقت آمپراژ انشعاب مشترکین شرکت های توزیع نیروی برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رفع خسارت وارده به شبکه برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رفع خسارت وارده به شبکه برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رسیدگی به گزارش سرقت لوازم و ادوات برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رسیدگی به گزارش سرقت لوازم و ادوات برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رفع حریم برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رفع حریم برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رفع خطر از تاسیسات مخاطره آمیز برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رفع خطر از تاسیسات مخاطره آمیز برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "نصب مولد خورشیدی مشترکین برق (ویژه متقاضیان کمتر از 200 کیلووات)": {
+    "serviceCode": 13031465100,
+    "serviceName": "نصب مولد خورشیدی مشترکین برق (ویژه متقاضیان کمتر از 200 کیلووات)",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "ارائه صورتحساب مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه صورتحساب مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "ارائه گزارش انرژی تحویلی مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه گزارش انرژی تحویلی مولد خورشیدی مشترکین برق(ویژه متقاضیان کمتر از 200 کیلووات)",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "خاموشی موقت برق به درخواست متقاضی": {
+    "serviceCode": 13031465100,
+    "serviceName": "خاموشی موقت برق به درخواست متقاضی",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "ارائه گزارش خاموشی های برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه گزارش خاموشی های برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رفع خاموشی های مشترکین برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رفع خاموشی های مشترکین برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رفع مشکل ولتاژ شبکه برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "رفع مشکل ولتاژ شبکه برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "رفع مشکل روشنایی معابر": {
+    "serviceCode": 13031465100,
+    "serviceName": "رفع مشکل روشنایی معابر",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "ارائه فهرست تامین کنندگان مجاز کالاهای مرتبط با صنعت برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه فهرست تامین کنندگان مجاز کالاهای مرتبط با صنعت برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "ارائه لیست پیمانکاران تایید شده حوزه برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه لیست پیمانکاران تایید شده حوزه برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "ارائه دستورالعمل و نقشه ساخت تجهیزات و تابلوهای برق (13031987000)": {
+    "serviceCode": 13031465100,
+    "serviceName": "ارائه دستورالعمل و نقشه ساخت تجهیزات و تابلوهای برق (13031987000)",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "فرهنگ سازی مدیریت مصرف برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "فرهنگ سازی مدیریت مصرف برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "کنترل پیک بار مصرف برق": {
+    "serviceCode": 13031465100,
+    "serviceName": "کنترل پیک بار مصرف برق",
+    "serviceLink": "https://bargheman.com/auth"
+  },
+  "تعیین رتبه انرژی ساختمان های اداری": {
+    "serviceCode": 13031465100,
+    "serviceName": "تعیین رتبه انرژی ساختمان های اداری",
+    "serviceLink": "https://bargheman.com/auth"
+  }
+}
