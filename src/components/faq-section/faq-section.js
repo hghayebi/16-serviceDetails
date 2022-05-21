@@ -33,7 +33,7 @@ export default class FaqSection {
     
     <div class="ho-faq-title">
 
-    <span class="ho-fa-title">
+    <span class="ho-fa-title" style="font-size: 30px !important;">
     سوالات متداول
     </span>
 

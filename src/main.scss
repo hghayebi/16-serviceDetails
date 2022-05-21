@@ -34,6 +34,7 @@
   font-weight: bold;
 
   & a {
+    display: inline-block;
     transition: all 0.2s;
     &:link,
     &:visited {
@@ -41,10 +42,12 @@
       font-family: sans-serif;
       color: #002d65;
       font-size: 11px;
-      padding: 3px;
+      padding: 3px 6px;
     }
     &:hover {
-      font-size: 13px;
+      color: white;
+      background-color: #002d65;
+      border-radius: 5px;
     }
   }
 }

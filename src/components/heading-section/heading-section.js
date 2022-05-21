@@ -12,11 +12,11 @@ export default class Heading {
     
   <div class="ho-service-title">
 
-    <span class="ho-fa-title">
+    <span class="ho-fa-title"  style="font-size: 30px !important;">
       ${data.serviceName}
     </span>
 
-    <span class="ho-en-title">
+    <span class="ho-en-title"  style="font-size: 30px !important;" >
     ${data.serviceNameEn}
     </span>
 
