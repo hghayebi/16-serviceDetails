@@ -64,6 +64,12 @@
     // transition: all 0.2s;
     &:hover {
       box-shadow: 0 6px 20px rgba(#000, 0.19);
+      background-color: #2998ff;
+      color: white;
+      .ho-link-box__icon {
+        filter: invert(99%) sepia(76%) saturate(2%) hue-rotate(104deg)
+          brightness(110%) contrast(101%);
+      }
     }
   }
 
