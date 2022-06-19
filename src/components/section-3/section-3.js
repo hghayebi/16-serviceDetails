@@ -15,7 +15,7 @@ export default class Section3 {
 
     // requirements
     let requirementsList = ``;
-    data.serviceRequirements.split("///").forEach((r) => {
+    data.serviceRequirements.split("///").forEach(r => {
       let tempLi = `
       <li>
         ${r}
@@ -75,7 +75,11 @@ export default class Section3 {
 
     <div class="ho-line-box--second">
       <p class="ho-responsibleContact__value">
-      ${data.serviceResponsibleContact}
+      ${
+        data.serviceResponsibleContact?.trim() == "واحد مربوطه"
+          ? '<a href="https://aped.ir/page-main/fa/0/form/pId864" >واحد مربوطه</a>'
+          : data.serviceResponsibleContact
+      }
       </p>
     </div>
 
